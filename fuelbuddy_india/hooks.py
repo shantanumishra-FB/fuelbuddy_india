@@ -1,0 +1,5 @@
+app_name = "fuelbuddy_india"
+app_title = "FuelBuddy India"
+app_publisher = "Fuelbuddy"
+app_description = "FuelBuddy India: move Treis Solutions LLP transactions to FuelBuddy Future Energy"
+app_license = "mit"
